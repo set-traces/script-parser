@@ -7,7 +7,8 @@ from pkg_resources import resource_stream
 from script_parser.manuscript_types import Manuscript
 from jinja2 import Template
 
-def generate_html(manuscript: Manuscript):
+
+def generate_html(manuscript: Manuscript) -> str:
     html_file = resource_stream("script_parser", "resources/html_generator/manuscript.j2")
     template = Template(html_file.read().decode("utf-8"))
     html_file.close()
@@ -32,15 +33,17 @@ def generate_html(manuscript: Manuscript):
     return html
 
 
-def open_html(manuscript_or_html: Union[Manuscript, str]):
+def save_html(manuscript_or_html: Union[Manuscript, str], save_path: str):
     if isinstance(manuscript_or_html, Manuscript):
         html = generate_html(manuscript_or_html)
     else:
         html = manuscript_or_html
 
-    path = os.path.abspath('temp.html')
-    url = 'file://' + path
-
-    with open(path, 'w', encoding='utf-8') as f:
+    with open(save_path, 'w', encoding='utf-8') as f:
         f.write(html)
+
+
+def open_html(manuscript_or_html: Union[Manuscript, str], save_path: str):
+    save_html(manuscript_or_html, save_path)
+    url = 'file://' + save_path
     webbrowser.open(url)

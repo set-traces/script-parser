@@ -2,7 +2,7 @@ from script_parser.manuscript_types import Manuscript
 from gtts import gTTS
 import os
 
-def read_aloud(manuscript: Manuscript):
+def read_aloud(manuscript: Manuscript, save_path: str):
     characters = [char for char in manuscript.header['characters']['list'] if not char.get('invalid')]
     langs = ['no', 'sv', 'da', 'fi', 'nl', 'de']
     lang_by_char_name = {
@@ -27,10 +27,10 @@ def read_aloud(manuscript: Manuscript):
         for line, lang in lines_text_with_lang
     ]
 
-    with open('temp_voice.mp3', 'wb') as fp:
+    with open(save_path, 'wb') as fp:
         for voice_obj in voice_objs:
             voice_obj.write_to_fp(fp)
 
-    os.system("temp_voice.mp3")
+    os.system(save_path)
 
 
