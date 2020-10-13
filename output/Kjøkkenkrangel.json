@@ -1,0 +1,189 @@
+{
+    "header": {
+        "title": [
+            "﻿Kjøkkenkrangel",
+            "",
+            "NB!",
+            "VELDIG VIKTIG AT DENNE MALEN LESES NØYE OG FØLGES FOR TEKNIKK SIN DEL!!",
+            "Bruk de ulike gruppefeltene til å gi beskjeder. Gruppesjefene kommer til å kommentere i sketsjen om det er noe de lurer på."
+        ],
+        "context": [
+            "2 studenter krangler på et kjøkken. Krangelen eskalerer"
+        ],
+        "characters": {
+            "list": [
+                {
+                    "name": "Anne",
+                    "alias": null,
+                    "description": "Vanlig student. Chill personlighet"
+                },
+                {
+                    "name": "Per",
+                    "alias": null,
+                    "description": "Vanlig student. Streng personlighet"
+                },
+                {
+                    "name": "Lik",
+                    "alias": null,
+                    "description": "Gutt. Ligger bare i ro hele sketsjen"
+                },
+                {
+                    "invalid": true,
+                    "raw": "NB! Viktig å skrive opp absolutt alle som har replikk og er på scenen (selv om de ikke har navn eller synes på scenen) slik at vi vet hvor mange som trengs for regissør, kostyme og dans sin del."
+                }
+            ],
+            "notes": ""
+        },
+        "costume": [
+            "Vanlig kledd"
+        ],
+        "technicians": [
+            "Kjøkken på hybel"
+        ],
+        "props": [
+            "Kjøkkenbenk(som skuespillerne står bak), 2 gaffler, plastbeholder, boxer/underbukse, tomatsaus, søppelsekk,"
+        ],
+        "band": [
+            "Ingentin"
+        ],
+        "dance": [
+            "Ingenting"
+        ],
+        "choir": [
+            "Ingenting"
+        ]
+    },
+    "body": {
+        "lines": [
+            {
+                "action": "Per kommer plystendre inn på kjøkkenet og begynner å lage mat",
+                "type": "action"
+            },
+            {
+                "character": "Per",
+                "remark": "Herregud, kjøkkenet ser helt jævlig ut! Anne!!!!!!!",
+                "type": "remark"
+            },
+            {
+                "action": "Anne kommer inn på kjøkkenet",
+                "type": "action"
+            },
+            {
+                "character": "Per",
+                "remark": "Anne, hva er dette[drar opp en skuff og peker på en gaffel]",
+                "type": "remark"
+            },
+            {
+                "character": "Anne",
+                "remark": "Ehhhh, en gaffel?",
+                "type": "remark"
+            },
+            {
+                "character": "Per",
+                "remark": "Bare en gaffel? Tror du vil lever som villmenn? Dette er helt tydelig en klassisk middagsgaffel… Vet du hvor jeg fant den???",
+                "type": "remark"
+            },
+            {
+                "character": "Anne",
+                "remark": "Ehhhh, sammen med de andre gaffelene?",
+                "type": "remark"
+            },
+            {
+                "character": "Per",
+                "remark": "Ehhh nei, den lå sammen med alle salatgaffelene våre.",
+                "type": "remark"
+            },
+            {
+                "character": "Anne",
+                "remark": "Nå synes jeg du overreagerer, Per, er det sååå farlig så lenge gaflene ligger på samme sted?‘",
+                "type": "remark"
+            },
+            {
+                "character": "Per",
+                "remark": "Så lenge alt ligger på samme plass ja! Da kan vi like så  gjerne bare ha melka og jusen i samme kartong da![Per blander sammen jus og melk i en beholder, lukter det og gagger, så drikker. Hiver kartongen på Anne] MMMMH  DIGG!!! JEG ELSKER ANARKI PÅ KJØKKENET",
+                "type": "remark"
+            },
+            {
+                "character": "Anne",
+                "remark": "Per… chill. Jeg synes du har skyhøye forventninger til meg. Hvordan skal vi bo sammen om du bæder  over en gaffel?.",
+                "type": "remark"
+            },
+            {
+                "character": "Per",
+                "remark": "EN gaffel. Jeg skulle VIRKELIG ønske at det bare var en gaffel.",
+                "type": "remark"
+            },
+            {
+                "action": "Per åpner et skap",
+                "type": "action"
+            },
+            {
+                "character": "Per",
+                "remark": "Ser du kjelen her[stikker nesa ned i kjelen og tar et dypt drag], den lukter fortsatt gårsdagens hønsefrikasse",
+                "type": "remark"
+            },
+            {
+                "character": "Anne",
+                "remark": "Ok, sorry, dårlig av meg, vasker det etterpå.",
+                "type": "remark"
+            },
+            {
+                "character": "Per",
+                "remark": "Hvordan skal du få til å vaske det her etterpå når du bruker oppvaskmaskinen til klesvask!?[drar fram en bokser]",
+                "type": "remark"
+            },
+            {
+                "character": "Anne",
+                "remark": "Se der ja, har lett etter den en stund. Kan du sjekke om det fortsatt er flekker på den",
+                "type": "remark"
+            },
+            {
+                "action": "Per kaster vekk bokseren og åpner en skuff",
+                "type": "action"
+            },
+            {
+                "character": "Per",
+                "remark": "Kan du si meg hvorfor det er tomatsaus over hele skuffen her[Tomatsaus renner ned hånda til Per]",
+                "type": "remark"
+            },
+            {
+                "character": "Anne",
+                "remark": "Jeg fant ikke en beholder, og jeg hadde rester.",
+                "type": "remark"
+            },
+            {
+                "character": "Per",
+                "remark": "Fant ikke beholder[roter litt og finner fram en beholder] Hva med denne da?",
+                "type": "remark"
+            },
+            {
+                "character": "Anne",
+                "remark": "Den er jo laget av plast. Du vet jo om lidenskapen min for miljøet, Per. Men om det plager deg så mye så skal jeg skal ta av meg sølet etterpå",
+                "type": "remark"
+            },
+            {
+                "invalid": true,
+                "raw": "Perè: Ta det etterpå ja!? Husker du på husmøte i forrige uke da du sa du skulle ta dette"
+            },
+            {
+                "invalid": true,
+                "raw": "[Per drar fram et lik liggende halvveis i en svart søppelsekk] etterpå?? Han har råtnet Anne! Jeg sa om du skulle oppholde han her så måtte du i hvertfall legge han i fryseren."
+            },
+            {
+                "character": "Anne",
+                "remark": "Altså ideen var jo at han skulle parteres i går, men du vet “shit happens”. Skal avtale nytt tidspunkt med parteringsfyren min snart. Jeg gjør mitt beste Per, du hadde sikkert gjort det samme.",
+                "type": "remark"
+            },
+            {
+                "character": "Per",
+                "remark": "Jeg hadde ikke latt noen dø på kjøkkengulvet vårt Anne!",
+                "type": "remark"
+            },
+            {
+                "character": "Anne",
+                "remark": "Helt ærlig bro,  det sto ingenting i tinderbioen at han var hyperallergisk mot peanøtter.",
+                "type": "remark"
+            }
+        ]
+    }
+}

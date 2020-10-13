@@ -1,0 +1,371 @@
+{
+    "header": {
+        "title": [
+            "﻿Lærer på fest"
+        ],
+        "context": [
+            "Nerd har invitert foreleser på vors. Festen utvikler seg til en slags forelesning."
+        ],
+        "characters": {
+            "list": [
+                {
+                    "name": "Host1",
+                    "alias": "H1",
+                    "description": "Vanlig party person"
+                },
+                {
+                    "name": "Host2",
+                    "alias": "H2",
+                    "description": "Vanlig party person"
+                },
+                {
+                    "name": "Bjørnar",
+                    "alias": "B",
+                    "description": "Typisk nerd, respekterer foreleser høyt."
+                },
+                {
+                    "name": "Foreleser",
+                    "alias": "F",
+                    "description": "Gammel, krokbøyd, bart. Snakker sakte"
+                },
+                {
+                    "name": "Gjest1",
+                    "alias": null,
+                    "description": "Vanlig party person. Ingen replikker (kan være dansere)"
+                },
+                {
+                    "name": "Gjest2",
+                    "alias": null,
+                    "description": "Vanlig party person. Ingen replikker (kan være dansere)"
+                },
+                {
+                    "name": "Gjest3",
+                    "alias": null,
+                    "description": "(kan sløyfes) Vanlig party person. Ingen replikker (kan være dansere)"
+                },
+                {
+                    "name": "Gjest4",
+                    "alias": null,
+                    "description": "(kan sløyfes) Vanlig party person. Ingen replikker (kan være dansere)"
+                }
+            ],
+            "notes": ""
+        },
+        "costume": [
+            [
+                "t-skjorte med en nerdete referanse (nerd)",
+                "nerde-briller (nerd)",
+                "tweed jakke (foreleser)",
+                "bart (foreleser)",
+                "fest/vors-klær (2x hoster og 2-4 gjester)"
+            ]
+        ],
+        "props": [
+            [
+                "beerpong kopper (og bord)",
+                "sofa",
+                "kaffekopp til foreleser",
+                "ølbokser",
+                "gammeldags spritflaske (feks akevitt flaske)",
+                "gammeldags fasttelefon ala denne",
+                "gammeldags mobiltelefon ala denne"
+            ]
+        ],
+        "band": [
+            "Bandet er kult",
+            [
+                "Partymusikk (kan være playback). Begynner rolig og bygger seg opp over tid"
+            ],
+            "Hva skjer nå?"
+        ],
+        "dance": [
+            [
+                "Kan bruke dansere som gjester på vors"
+            ]
+        ]
+    },
+    "body": {
+        "lines": [
+            {
+                "action": "Hostene sitter og chiller i stua. Lav musikk. Setter opp beerpong",
+                "type": "action"
+            },
+            {
+                "character": "Host1",
+                "remark": "Detta blir bra",
+                "type": "remark"
+            },
+            {
+                "character": "Host2",
+                "remark": "Jaass",
+                "type": "remark"
+            },
+            {
+                "action": "Banker på døra",
+                "type": "action"
+            },
+            {
+                "character": "Host2",
+                "remark": "oi er det noen her allerede?",
+                "type": "remark"
+            },
+            {
+                "action": "host1 går for å lukke opp",
+                "type": "action"
+            },
+            {
+                "action": "Bjørnar braser inn før host1 rekker å lukke opp",
+                "type": "action"
+            },
+            {
+                "character": "Bjørnar",
+                "remark": "Hallois! Er jeg tidsnok?",
+                "type": "remark"
+            },
+            {
+                "character": "Host2",
+                "remark": "Hva mener du? Du er første gjest",
+                "type": "remark"
+            },
+            {
+                "character": "Bjørnar",
+                "remark": "Yess! Har god streak på å komme først",
+                "type": "remark"
+            },
+            {
+                "action": "Bjørnar slenger seg ned i sofaen og begynner å snakke nerdeting",
+                "type": "action"
+            },
+            {
+                "action": "Det banker på døra igjen, foreleser står bak med kaffekopp i hånda og en gammeldansk flaske",
+                "type": "action"
+            },
+            {
+                "character": "Bjørnar",
+                "remark": "Der er han",
+                "type": "remark"
+            },
+            {
+                "action": "Bjørnar løper for å lukke opp",
+                "type": "action"
+            },
+            {
+                "action": "Foreleser går sakte inn",
+                "type": "action"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Hei dere, Bjørnar inviterte meg.",
+                "type": "remark"
+            },
+            {
+                "action": "Hostene ser oppgitte ut",
+                "type": "action"
+            },
+            {
+                "character": "Host2",
+                "remark": "Hei, ja, du kom ja… hei",
+                "type": "remark"
+            },
+            {
+                "action": "Foreleser går frem og tilbake og ser på klokka",
+                "type": "action"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Det er enda noen minutter til det starter altså. Vi venter på litt flere",
+                "type": "remark"
+            },
+            {
+                "action": "Flere gjester ankommer og tar plass i sofa",
+                "type": "action"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Da var det tid",
+                "type": "remark"
+            },
+            {
+                "action": "Foreleser setter seg og tar frem flasken med gammeldansk og heller i kaffekoppen",
+                "type": "action"
+            },
+            {
+                "action": "Festen går sin gang, det dannes noen (to/tre) grupperinger",
+                "type": "action"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Hvordan går det?",
+                "type": "remark"
+            },
+            {
+                "action": "Alle gjestene reagerer, ser opp, men fortsetter med det de gjorde",
+                "type": "action"
+            },
+            {
+                "action": "Foreleser begynner å spasere og inspisere det gruppene holder på med / snakker om",
+                "type": "action"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Ser dere jobber bra, men om dere sitter fast, er det bare å spørre studassen vår, Bjørnar, borti hjørnet der.",
+                "type": "remark"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Jeg har forresten en ide jeg vil dele med dere. Jeg vet dere holder på med andre ting, men jeg hadde satt pris på litt oppmerksomhet nå.",
+                "type": "remark"
+            },
+            {
+                "action": "Gjestene bryr seg ikke, fortsetter å mumle",
+                "type": "action"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Stille!",
+                "type": "remark"
+            },
+            {
+                "action": "Host1 ser mer oppgitt ut",
+                "type": "action"
+            },
+            {
+                "character": "Host1",
+                "remark": "Jasså, ja",
+                "type": "remark"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Vi er jo alle vant med sånne som denne",
+                "type": "remark"
+            },
+            {
+                "action": "Drar opp en gammeldags fasttelefon med snurre tastatur",
+                "type": "action"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Jeg har tenkt lenge på denne, og funnet på noe kult. Se på denne",
+                "type": "remark"
+            },
+            {
+                "action": "Foreleser drar frem en svær, gammeldags mobiltelefon",
+                "type": "action"
+            },
+            {
+                "character": "Host1",
+                "remark": "Den var fin…",
+                "type": "remark"
+            },
+            {
+                "action": "Host1 drar diskre opp mobiltelefonen sin og begynner å se på den",
+                "type": "action"
+            },
+            {
+                "invalid": true,
+                "raw": "* En dust ting til"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Ja jeg hadde også en annen ide. Man begynner jo å få datamaskiner hjemme hos folk nå, så jeg tenkte at man kan koble alle disse maskinene sammen! I et slags nettverk.",
+                "type": "remark"
+            },
+            {
+                "action": "Forelser begynner å trekke fram masse ethernettkabler fra en pose",
+                "type": "action"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Hvis alle bare kobler maskinene sine sammen med disse kablene! ikkesant?",
+                "type": "remark"
+            },
+            {
+                "character": "Host2",
+                "remark": "Øh ja det er sikkert noe å tenke på….",
+                "type": "remark"
+            },
+            {
+                "action": "Host2 snur seg til en annen gjest",
+                "type": "action"
+            },
+            {
+                "character": "Host2",
+                "remark": "Ja wifi passordet er passord.",
+                "type": "remark"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "OK da, en siste ting.",
+                "type": "remark"
+            },
+            {
+                "action": "Foreleser tar en lang pause, begynner å se litt demotivert ut",
+                "type": "action"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Jeg har laget en app. Den har sånn 1 million brukere, og har fått et verdensomfangende omdømme. Jeg vet ikke helt om det er noe å satse på...",
+                "type": "remark"
+            },
+            {
+                "action": "Foreleser trykker på en fjernkontroll, og Kahoot kommer opp på storskjerm / Kahoot musikken spilles",
+                "type": "action"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "[Ser mot publikum] Vil dere ha avslutning 1, 2, eller 3? Stem på Kahoot nå!",
+                "type": "remark"
+            },
+            {
+                "comment": "Alternativ 1:",
+                "type": "comment"
+            },
+            {
+                "action": "Alle gjestene går ned på kne, og tilber foreleseren",
+                "type": "action"
+            },
+            {
+                "comment": "Aternativ 2:",
+                "type": "comment"
+            },
+            {
+                "action": "Foreleser drar av seg tweed-jakka og har på seg paljett-blazer",
+                "type": "action"
+            },
+            {
+                "action": "Musikken blir drøy, og det blir full rave",
+                "type": "action"
+            },
+            {
+                "comment": "Alternativ 3:",
+                "type": "comment"
+            },
+            {
+                "action": "Foreleser ser på klokka",
+                "type": "action"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Takk for i dag, husk å meld dere på referansegruppe",
+                "type": "remark"
+            },
+            {
+                "comment": " dette er en kommentar",
+                "type": "comment"
+            },
+            {
+                "character": "Foreleser",
+                "remark": "Takk for hjelpen Bjørnar",
+                "type": "remark"
+            },
+            {
+                "action": "Foreleser gir Bjørnar en 100 lapp",
+                "type": "action"
+            },
+            {
+                "action": "Foreleser går ut",
+                "type": "action"
+            }
+        ]
+    }
+}
