@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <style>
+
+        {{styles}}
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+            <div class="doc">
+                <h1>{{title}}</h1>
+                <ul class="lines-wrapper">
+                    {% for line in manuscript_lines %}
+                        {% if line.type == "remark" %}
+                        <li>
+                            <div class="remark-box">
+                                <div class="remark-start" style="background-color: {{character_color[line.character]}};"></div>
+                                <div class="remark-text"><strong>{{line.character}}</strong>: {{line.remark}}</div>
+                            </div>
+                        </li>
+                        {% elif line.type == "action" %}
+                        <li>{{line.action}}</li>
+                        {% else %}
+                        <li>
+                            <span class="comment-text">
+                                {% if line.type == "comment" %}
+                                {{line.comment}}
+                                {% else %}
+                                {{line.raw}}
+                                {% endif %}
+                            </span>
+                        </li>
+
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    background-color: #f8f9fa;
+}
+.doc {
+    max-width: 800px;
+    padding: 96px;
+    background-color: #ffffff;
+    border: 1px solid #edefef;
+    font-family: 'Roboto', sans-serif;
+}
+.lines-wrapper {
+    list-style-type: none;
+    padding: 0;
+}
+.remark-box {
+    background-color: #edefef;
+    box-shadow: 1px 1px 1px 0px #d7d9d9;
+    margin: 4px 0;
+    display: flex;
+    justify-content: flex-start;
+}
+.remark-text {
+    padding: 2px 3px;
+
+}
+.remark-start {
+    min-width: 4px;
+    align-self: stretch;
+}
+.comment-text {
+    color: rgba(0, 0, 0, .5)
+}
+body {
+    margin: 0;
+    padding: 0;
+}

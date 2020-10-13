@@ -1,0 +1,156 @@
+﻿Lærer på fest
+Kontekst: Nerd har invitert foreleser på vors. Festen utvikler seg til en slags forelesning.
+
+
+Karakterer: 
+* Host1 (H1): Vanlig party person
+* Host2 (H2): Vanlig party person
+* Bjørnar (B): Typisk nerd, respekterer foreleser høyt.
+* Foreleser (F): Gammel, krokbøyd, bart. Snakker sakte
+* Gjest1: Vanlig party person. Ingen replikker (kan være dansere)
+* Gjest2: Vanlig party person. Ingen replikker (kan være dansere)
+* Gjest3: (kan sløyfes) Vanlig party person. Ingen replikker (kan være dansere)
+* Gjest4: (kan sløyfes) Vanlig party person. Ingen replikker (kan være dansere)
+
+
+Kostyme:
+* t-skjorte med en nerdete referanse (nerd)
+* nerde-briller (nerd)
+* tweed jakke (foreleser)
+* bart (foreleser) 
+* fest/vors-klær (2x hoster og 2-4 gjester)
+Rekvisitter:
+* beerpong kopper (og bord)
+* sofa
+* kaffekopp til foreleser
+* ølbokser
+* gammeldags spritflaske (feks akevitt flaske)
+* gammeldags fasttelefon ala denne
+* gammeldags mobiltelefon ala denne
+Band:
+Bandet er kult
+* Partymusikk (kan være playback). Begynner rolig og bygger seg opp over tid
+Hva skjer nå?
+Dans:
+* Kan bruke dansere som gjester på vors
+________________
+
+
+
+
+[Hostene sitter og chiller i stua. Lav musikk. Setter opp beerpong]
+Host1: Detta blir bra
+Host2: Jaass
+[Banker på døra]
+Host2: oi er det noen her allerede?
+[host1 går for å lukke opp]
+[Bjørnar braser inn før host1 rekker å lukke opp]
+Bjørnar: Hallois! Er jeg tidsnok?
+Host2: Hva mener du? Du er første gjest
+Bjørnar: Yess! Har god streak på å komme først
+[Bjørnar slenger seg ned i sofaen og begynner å snakke nerdeting]
+[Det banker på døra igjen, foreleser står bak med kaffekopp i hånda og en gammeldansk flaske]
+Bjørnar: Der er han
+[Bjørnar løper for å lukke opp]
+[Foreleser går sakte inn]
+Foreleser: Hei dere, Bjørnar inviterte meg.
+
+
+[Hostene ser oppgitte ut]
+Host2: Hei, ja, du kom ja… hei
+
+
+[Foreleser går frem og tilbake og ser på klokka]
+Foreleser: Det er enda noen minutter til det starter altså. Vi venter på litt flere
+[Flere gjester ankommer og tar plass i sofa]
+Foreleser: Da var det tid
+[Foreleser setter seg og tar frem flasken med gammeldansk og heller i kaffekoppen]
+
+
+[Festen går sin gang, det dannes noen (to/tre) grupperinger]
+Foreleser: Hvordan går det?
+[Alle gjestene reagerer, ser opp, men fortsetter med det de gjorde]
+
+
+[Foreleser begynner å spasere og inspisere det gruppene holder på med / snakker om]
+Foreleser: Ser dere jobber bra, men om dere sitter fast, er det bare å spørre studassen vår, Bjørnar, borti hjørnet der. 
+
+
+Foreleser: Jeg har forresten en ide jeg vil dele med dere. Jeg vet dere holder på med andre ting, men jeg hadde satt pris på litt oppmerksomhet nå.
+[Gjestene bryr seg ikke, fortsetter å mumle]
+Foreleser: Stille!
+[Host1 ser mer oppgitt ut]
+Host1: Jasså, ja
+Foreleser: Vi er jo alle vant med sånne som denne
+[Drar opp en gammeldags fasttelefon med snurre tastatur]
+Foreleser: Jeg har tenkt lenge på denne, og funnet på noe kult. Se på denne
+[Foreleser drar frem en svær, gammeldags mobiltelefon]
+Host1: Den var fin…
+[Host1 drar diskre opp mobiltelefonen sin og begynner å se på den]
+* En dust ting til
+Foreleser: Ja jeg hadde også en annen ide. Man begynner jo å få datamaskiner hjemme hos folk nå, så jeg tenkte at man kan koble alle disse maskinene sammen! I et slags nettverk. 
+[Forelser begynner å trekke fram masse ethernettkabler fra en pose]
+Foreleser: Hvis alle bare kobler maskinene sine sammen med disse kablene! ikkesant?
+Host2: Øh ja det er sikkert noe å tenke på…. 
+[Host2 snur seg til en annen gjest]
+Host2: Ja wifi passordet er passord. 
+
+
+Foreleser: OK da, en siste ting.
+[Foreleser tar en lang pause, begynner å se litt demotivert ut]
+Foreleser: Jeg har laget en app. Den har sånn 1 million brukere, og har fått et verdensomfangende omdømme. Jeg vet ikke helt om det er noe å satse på...
+[Foreleser trykker på en fjernkontroll, og Kahoot kommer opp på storskjerm / Kahoot musikken spilles]
+
+
+Foreleser: [Ser mot publikum] Vil dere ha avslutning 1, 2, eller 3? Stem på Kahoot nå!
+
+
+//Alternativ 1:
+[Alle gjestene går ned på kne, og tilber foreleseren]
+
+
+//Aternativ 2:
+[Foreleser drar av seg tweed-jakka og har på seg paljett-blazer]
+[Musikken blir drøy, og det blir full rave]
+
+
+//Alternativ 3:
+[Foreleser ser på klokka]
+Foreleser: Takk for i dag, husk å meld dere på referansegruppe
+
+// dette er en kommentar
+
+F: Takk for hjelpen Bjørnar
+[Foreleser gir Bjørnar en 100 lapp]
+[Foreleser går ut]
+
+
+________________
+
+
+
+
+
+
+Ideer:
+* Nerd kommer litt før 15 over. Er jeg før foreleseren? :D YESS
+   * “Kom jeg før foreleseren”?
+   * De andre er negativt overraskede
+* Foreles kommer litt etter, men også før 15 over
+* Foreleser går litt frem og tilbake
+* Dra frem gammel dansk / aquevit / karsk
+* Foreleser får frem og tilbake og inspiserer grupperingene
+   * Kan du svare på [spørsmål]?
+* Pitcher eldgamle innovasjoner
+   * En gammel telefon (bokser med tråd?) som, kan vi gjøre den trådløs? Gammel mobil
+* Pitcher Kahoot (med 1mill brukere)
+* Til slutt, alle er fortvila. Foreleser: Vi kan utsette øvinga til mandag.
+* YEeey
+
+
+Forelesere:
+* Schau
+* Nome
+* Trætteberg
+* Hetland
+* Alf Inge Wang
