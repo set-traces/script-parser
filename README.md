@@ -4,7 +4,9 @@ This is a manuscript parser for Abakusrevyen 2021.
 
 The parser is flexible to easily allow different script syntaxes.
 
-The script can also generate a pretty html, pdf and text-to-speach
+The script can also generate a pretty html, pdf and text-to-speach.
+
+Take a look in the `output` folder for examples.
 
 ## Getting started
 
